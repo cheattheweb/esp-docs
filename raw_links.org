@@ -1,0 +1,38 @@
+#+title: Raw Links
+#+DESCRIPTION: This repo contains all the raw links that were gathered on the time of research.
+#+AUTHOR: cheattheweb
+
+* GitHub
+1. [[https://github.com/espressif][Espressif]]
+2. [[https://github.com/espressif/esp-idf][ESP-IDF]]
+3. [[https://github.com/espressif/arduino-esp32][Arduino core for the ESP32]]
+4. [[https://github.com/espressif/esp-protocols][Collection of ESP-IDF components related to networking protocols]]
+
+* Youtube & other video links
+1. [[https://youtu.be/fBWu8sCuat4?si=_7Cm5NLlHIlGgUrQ][Using ESP-IDF FreeRTOS Functionality Within an ESP32 Arduino Project]]
+2. [[https://www.youtube.com/watch?v=J8zc8mMNKtc][Beginners Guide to Key Concepts and Resources about esp32 and IDF]]
+3. [[https://youtu.be/xPlN_Tk3VLQ?si=Yaw1_llB5uDt1U0g][ESP32 - Getting Started (arduino)]]
+4. [[https://www.youtube.com/watch?v=dOVjb2wXI84&t=658s][Low Level Learning getting started with esp32]]
+
+
+* Photos or docs
+1. [[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/][ESP-IDF Programming Guide]]
+2. [[https://docs.micropython.org/en/][MircroPython]]
+
+* Datasheets
+1. [[https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf][ESP32 Datasheet]]
+
+* Web Links
+1. [[https://www.espressif.com/][Espressif website]]
+2. [[https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/][Pinout ESP32 DevKit V1]]
+3. [[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html][ESP32-DevKitC V4 getting started guide]]
+4. [[https://wokwi.com/esp32][Online ESP32 simulator]]
+5. [[https://components.espressif.com/][ESP-IDF components]]
+6. [[https://randomnerdtutorials.com/getting-started-with-esp32/][Getting started with esp32, good one]]
+7. [[https://randomnerdtutorials.com/projects-esp32/][Random tutorials]]
+8. [[http://esp32.net][Good source of info]]
+9. [[https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/][Getting Started with MircroPython and ESP32]]
+
+
+* Random
+1. https://docs.arduino.cc/resources/datasheets/ABX00083-datasheet.pdf

@@ -1,0 +1,8 @@
+#+TITLE: Espressif Socs & DevKit
+#+DESCRIPTION: All about ESP based information
+#+AUTHOR: cheattheweb
+
+* About
+This repo is mostly about the Espressif technology, especially the espressif technology.
+The development work is based on esp32 and esp8266
+All the research and documents were authored under the guidance of **Craft Lab**.
