@@ -35,6 +35,7 @@
 7. [[https://randomnerdtutorials.com/projects-esp32/][Random tutorials]]
 8. [[http://esp32.net][Good source of info]]
 9. [[https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/][Getting Started with MircroPython and ESP32]]
+10. [[https://excel.fit.vutbr.cz/submissions/2021/048/48.pdf][Wi-Fi attacks using ESP32 by Richard]]
 
 
 * Random
