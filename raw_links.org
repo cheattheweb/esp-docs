@@ -7,6 +7,9 @@
 2. [[https://github.com/espressif/esp-idf][ESP-IDF]]
 3. [[https://github.com/espressif/arduino-esp32][Arduino core for the ESP32]]
 4. [[https://github.com/espressif/esp-protocols][Collection of ESP-IDF components related to networking protocols]]
+5. [[https://github.com/espressif/esp-bsp][Board Supported Packages]]
+6. [[https://github.com/risinek/esp32-wifi-penetration-tool/][Esp32-wifi-penetration-tool by risinek]]
+
 
 * Youtube & other video links
 1. [[https://youtu.be/fBWu8sCuat4?si=_7Cm5NLlHIlGgUrQ][Using ESP-IDF FreeRTOS Functionality Within an ESP32 Arduino Project]]
