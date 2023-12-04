@@ -1,0 +1,8 @@
+#+title: Daily Reports on Work status
+#+DESCRIPTION: Everyday works will be reported where
+
+* 04-11-2023
+Found an old project that can packet inject wifi.
+It can do Dos attacks, capture packets.
+But it may not be able to capture packets properly for hash cracking.
+https://github.com/risinek/esp32-wifi-penetration-tool.git
