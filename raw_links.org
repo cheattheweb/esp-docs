@@ -20,7 +20,9 @@
 
 * Photos or docs
 1. [[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/][ESP-IDF Programming Guide]]
-2. [[https://docs.micropython.org/en/][MircroPython]]
+2. [[https://docs.espressif.com/projects/arduino-esp32/en/latest/index.html][Arduino core docs]]
+3.
+3. [[https://docs.micropython.org/en/][MircroPython]]
 
 * Datasheets
 1. [[https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf][ESP32 Datasheet]]
