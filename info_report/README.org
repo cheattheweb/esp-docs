@@ -11,3 +11,7 @@ https://github.com/risinek/esp32-wifi-penetration-tool.git
 - The DOIT ESP32 DevKit V1 is probably the most famous development board based on the equally popular ESP32 Wi-Fi SoC from Espressif. In fact, the DevKit V1 is more popular than any official board from Espressif. On this page, you will find a beautiful pinout diagram crafted by =CIRCUITSTATE= and other pin references for the [[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html#get-started-esp32-devkitc-board-front][ESP32 DevKit V1 board.]]
 - =EN= pin This is the reset pin. Connecting this pin to GND will reset the ESP32. This pin is normally pulled-up. The EN button will pull it LOW when you press it.
 - Many of the peripheral functions can be mapped to any of the GPIO pins using the [[https://docs.espressif.com/projects/arduino-esp32/en/latest/tutorials/io_mux.html][GPIO Mux]] block of the ESP32.
+* 06-12-2023
+- Found a project named ESP32 Maradure that can do almost everything I wanted to do with the esp32
+- It has a very verbose wiki too
+- Looks like maradur v6 uses a Li-ion battery
