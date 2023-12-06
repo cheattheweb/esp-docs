@@ -9,6 +9,8 @@
 4. [[https://github.com/espressif/esp-protocols][Collection of ESP-IDF components related to networking protocols]]
 5. [[https://github.com/espressif/esp-bsp][Board Supported Packages]]
 6. [[https://github.com/risinek/esp32-wifi-penetration-tool/][Esp32-wifi-penetration-tool by risinek]]
+7. [[https://github.com/justcallmekoko/ESP32Marauder][ESP32 Marauder]]
+8. [[https://github.com/justcallmekoko/ESP32Marauder/wiki][Marauder Wiki]]
 
 
 * Youtube & other video links
@@ -16,12 +18,12 @@
 2. [[https://www.youtube.com/watch?v=J8zc8mMNKtc][Beginners Guide to Key Concepts and Resources about esp32 and IDF]]
 3. [[https://youtu.be/xPlN_Tk3VLQ?si=Yaw1_llB5uDt1U0g][ESP32 - Getting Started (arduino)]]
 4. [[https://www.youtube.com/watch?v=dOVjb2wXI84&t=658s][Low Level Learning getting started with esp32]]
+5. [[https://www.youtube.com/watch?v=YpVu-UF6k10][How to use Maradure]]
 
 
 * Photos or docs
 1. [[https://docs.espressif.com/projects/esp-idf/en/latest/esp32/][ESP-IDF Programming Guide]]
 2. [[https://docs.espressif.com/projects/arduino-esp32/en/latest/index.html][Arduino core docs]]
-3.
 3. [[https://docs.micropython.org/en/][MircroPython]]
 
 * Datasheets
@@ -38,6 +40,8 @@
 8. [[http://esp32.net][Good source of info]]
 9. [[https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/][Getting Started with MircroPython and ESP32]]
 10. [[https://excel.fit.vutbr.cz/submissions/2021/048/48.pdf][Wi-Fi attacks using ESP32 by Richard]]
+11. [[https://www.tindie.com/products/justcallmekoko/esp32-marauder/][ESP32 Marauder Shop]]
+12. [[https://hashcat.net/cap2hashcat/][PCAP to Hashcat]]
 
 
 * Random
